@@ -1,0 +1,31 @@
+.venv
+.idea
+**/.DS_Store
+partition.html
+**/__pycache__
+
+*.egg-info
+*.pyc
+
+.vcpkg
+app.log
+.tox
+build
+dist
+.ruff_cache
+.env
+
+# data folders
+large_files/
+output/
+pipeline_artifacts/
+
+# Ignore everything in the data/ folder
+umls_data*
+neo4j_backups*
+
+# Exclude README.md from being ignored
+!umls_data/README.md
+zotero_dumps
+
+upload-service.txt

@@ -1,0 +1,3 @@
+zotero_library_name: "OntoverseSandbox" 
+pipeline_artifact_location: "pipeline_data/pipeline_artifacts/ontoverse_sandbox"  
+similar_paper_cutoff: 1  
