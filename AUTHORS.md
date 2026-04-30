@@ -3,8 +3,9 @@
 This file lists the contributors to the OntoVerse repository, recognizing their efforts in the development, research, and implementation of the project. For any queries, please reach out to the project leader or the principal contributors:
 
 ## **Project Lead**
-- [**Johannes Zimmermann**](johannes.zimmermann@astrazeneca.com) (I)- Original idea, conception, project coordination and strategic direction
-- [**Ian Simpson**](ian.simpson@ed.ac.uk) (GH: tisimpson) (II)- Conception of framework and foundational Knowledge Graph architecture
+- [**Ian Simpson**](ian.simpson@ed.ac.uk) (GH: tisimpson) (I)- Conception of framework and foundational Knowledge Graph architecture
+- [**Johannes Zimmermann**](johannes.zimmermann@astrazeneca.com) (II)- Original idea, conception, project coordination and strategic direction
+
 
 ## **Principal Contributors**
 - [**Laura López-Real**](laura.lopezreal@astrazeneca.com) (GH: @laulopezreal) (I)- Knowledge Graph Development and Research
